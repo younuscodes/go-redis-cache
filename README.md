@@ -1,12 +1,12 @@
 # go-redis-cache
 Caching In GoLang Using Redis
 
-## start redis
+## Start Redis
 docker compose up
 
 ## Run Application
 go run main.go
 
-## stop cmd for redis
+## Stop cmd for Redis
 docker compose down --volumes
 
